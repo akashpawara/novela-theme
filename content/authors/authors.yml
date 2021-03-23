@@ -5,48 +5,52 @@
   avatar: ./avatars/dennis-brotzky.jpg
   featured: true
   social:
-    - url: https://unsplash.com
-    - url: https://stackoverflow.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: mailto:myem@il.com
-
+    - url: 'https://unsplash.com'
+    - url: 'https://stackoverflow.com'
+    - url: 'https://github.com'
+    - url: 'https://github.com'
+    - url: 'https://github.com'
+    - url: 'mailto:myem@il.com'
 - name: Thiago Costa
   bio: |
     Written by You. This is where your author bio lives. Share your work, your
     joys and of course, your Twitter handle.
   avatar: ./avatars/thiago-costa.jpg
   social:
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: mailto:myem@il.com
-
+    - url: 'https://github.com'
+    - url: 'https://github.com'
+    - url: 'https://github.com'
+    - url: 'https://github.com'
+    - url: 'https://github.com'
+    - url: 'mailto:myem@il.com'
 - name: Brad Tiller
   bio: |
     Written by You. This is where your author bio lives. Share your work, your
     joys and of course, your Twitter handle.
   avatar: ./avatars/brad-tiller.jpg
   social:
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: mailto:myem@il.com
-
+    - url: 'https://github.com'
+    - url: 'https://github.com'
+    - url: 'https://github.com'
+    - url: 'https://github.com'
+    - url: 'https://github.com'
+    - url: 'mailto:myem@il.com'
 - name: Mack Mansouri
   bio: |
     Written by You. This is where your author bio lives. Share your work, your
     joys and of course, your Twitter handle.
   avatar: ./avatars/mack-mansouri.jpg
   social:
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: mailto:myem@il.com
+    - url: 'https://github.com'
+    - url: 'https://github.com'
+    - url: 'https://github.com'
+    - url: 'https://github.com'
+    - url: 'https://github.com'
+    - url: 'mailto:myem@il.com'
+- name: lorem-ipsum
+  bio: >-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua.
+  featured: false
+  slug: lorem-ipsum
+  social: []
