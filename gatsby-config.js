@@ -9,7 +9,7 @@ module.exports = {
 
         // important to set the main text that appears in the hero
         hero: {
-            heading: `Perspectives on technology, design and business from the team at Narative.`,
+            heading: `Perspectives on Space, technology, design and business from the team at Narative.`,
             maxWidth: 652,
         },
         social: [
