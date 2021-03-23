@@ -1,7 +1,7 @@
 {
-  "name": "@narative/gatsby-theme-novela",
-  "author": "dennis@narative.co",
-  "repository": "https://github.com/narative/gatsby-theme-novela",
+  "name": "Entity",
+  "author": "Akash",
+  "repository": "https://github.com/akashpawara/entity",
   "version": "0.18.4",
   "main": "index.js",
   "license": "MIT",

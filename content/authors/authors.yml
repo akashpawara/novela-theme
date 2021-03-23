@@ -1,8 +1,8 @@
-- name: Dennis Brotzky
+- name: Akash Pawara
   bio: |
     Written by You. This is where your author bio lives. Share your work, your
     joys and of course, your Twitter handle.
-  avatar: ./avatars/dennis-brotzky.jpg
+  avatar: ./avatars/profile.jpg
   featured: true
   social:
     - url: https://unsplash.com
@@ -10,9 +10,9 @@
     - url: https://github.com
     - url: https://github.com
     - url: https://github.com
-    - url: mailto:myem@il.com
+    - url: mailto:akashpawara29@gmail.com
 
-- name: Thiago Costa
+- name: Samridhi Mathur
   bio: |
     Written by You. This is where your author bio lives. Share your work, your
     joys and of course, your Twitter handle.
@@ -25,7 +25,7 @@
     - url: https://github.com
     - url: mailto:myem@il.com
 
-- name: Brad Tiller
+- name: Harsh Wasan
   bio: |
     Written by You. This is where your author bio lives. Share your work, your
     joys and of course, your Twitter handle.
@@ -38,7 +38,7 @@
     - url: https://github.com
     - url: mailto:myem@il.com
 
-- name: Mack Mansouri
+- name: Prem Warrier
   bio: |
     Written by You. This is where your author bio lives. Share your work, your
     joys and of course, your Twitter handle.
